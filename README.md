@@ -238,6 +238,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Team
 
 Developed as part of SC2006 Software Engineering course at NTU.
+- Yu Chen
+- Likai
+- Sean
+- Benjamin
+- Armaan
+- Pei Xin
 
 ## 📞 Support
 
